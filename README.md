@@ -2,6 +2,8 @@ The Dvorak-no-modifiers layout is to get rid of an annoyance in IntelliJ where, 
 interpreted both as a command and as a keyboard modifier, so a carat (`^`) would get appended to all my commit messages. Removing the modifiers
 fixed this.
 
+![](img/intellij.png)
+
 Using [Keyboard Pilot](http://tinybird.com/mac/keyboard-pilot.html), I set up profiles for IntelliJ to switch to my modified Dvorak layout, and all other times
 switch back to standard Dvorak. 
 
