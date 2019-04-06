@@ -1,6 +1,5 @@
-The Dvorak-no-modifiers layout is to get rid of an annoyance in IntelliJ where, during the commit dialogue flow,  an `alt` + `i` was 
-interpreted both as a command and as a keyboard modifier, so a carat (`^`) would get appended to all my commit messages. Removing the modifiers
-fixed this.
+The Dvorak-no-modifiers layout is to get rid of an annoyance in IntelliJ where, during the commit dialogue flow,  an `Alt` + `i` was 
+interpreted both as a command and as a keyboard modifier, so a carat (`^`) would get appended to all my commit messages. (IntelliJ binds the confirmation of that dialogue to `Alt` + `i`). Removing the modifiers from my keyboard layout fixed this.
 
 ![](img/intellij.png)
 
